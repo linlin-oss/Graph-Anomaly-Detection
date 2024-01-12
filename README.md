@@ -133,11 +133,11 @@
 
 ### **Citation Networks**
 
-- ACM  [http://www.arnetminer.org/open-academic-graph](http://www.arnetminer.org/open-academic-graph)
-- Cora  [http://linqs.cs.umd.edu/projects/projects/lbc](http://linqs.cs.umd.edu/projects/projects/lbc)
-- CiteSeer  [http://linqs.cs.umd.edu/projects/projects/lbc](http://linqs.cs.umd.edu/projects/projects/lbc)
-- PubMed  [http://linqs.cs.umd.edu/projects/projects/lbc](http://linqs.cs.umd.edu/projects/projects/lbc)
-- DBLP  [http://snap.stanford.edu/data/com-DBLP.html](http://www.informatik.uni-trier.de/˜ley/db/)
+> - ACM  [http://www.arnetminer.org/open-academic-graph](http://www.arnetminer.org/open-academic-graph)
+> - Cora  [http://linqs.cs.umd.edu/projects/projects/lbc](http://linqs.cs.umd.edu/projects/projects/lbc)
+> - CiteSeer  [http://linqs.cs.umd.edu/projects/projects/lbc](http://linqs.cs.umd.edu/projects/projects/lbc)
+> - PubMed  [http://linqs.cs.umd.edu/projects/projects/lbc](http://linqs.cs.umd.edu/projects/projects/lbc)
+> - DBLP  [http://snap.stanford.edu/data/com-DBLP.html](http://www.informatik.uni-trier.de/˜ley/db/)
 
 ### **Social Networks**
 

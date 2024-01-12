@@ -36,7 +36,7 @@
 
 ## **ANOMALOUS NODE DETECTION**
 
-![image-20240110153655311](C:\Users\Le'novo\AppData\Roaming\Typora\typora-user-images\image-20240110153655311.png)
+[![timeline](node.png)](https://ieeexplore.ieee.org/abstract/document/9565320)
 
 三类异常节点：结构异常、社区异常和全局异常。
 

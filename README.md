@@ -6,6 +6,11 @@
   - [Anomalous Sub-Graph Detections](#Anomalous-Sub-Graph-Detection)
   - [Anomalous Graph Detections](#Anomalous-Graph-Detection)
   - [Datasets](#Datasets)
+    - [Citation Networks](#Citation-Networks)
+    - [Social Networks](#Social-Networks)
+    - [Co-purchasing Networks](#Co-purchasing-Networks)
+    - [Transportation Networks](#Transportation-Networks)
+
 
 
 #  **Graph-Anomaly-Detection**

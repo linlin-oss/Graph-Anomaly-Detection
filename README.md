@@ -7,7 +7,7 @@
 
 ## **图异常检测研究的时间线**
 
-[![timeline](Timeline.png)](https://ieeexplore.ieee.org/abstract/document/9565320)
+[![timeline](timeline.png)](https://ieeexplore.ieee.org/abstract/document/9565320)
 
 
 

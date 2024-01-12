@@ -132,7 +132,6 @@
 ## **Datasets**
 
 ### **Citation Networks**
-
 > - ACM  [http://www.arnetminer.org/open-academic-graph](http://www.arnetminer.org/open-academic-graph)
 > - Cora  [http://linqs.cs.umd.edu/projects/projects/lbc](http://linqs.cs.umd.edu/projects/projects/lbc)
 > - CiteSeer  [http://linqs.cs.umd.edu/projects/projects/lbc](http://linqs.cs.umd.edu/projects/projects/lbc)
@@ -141,26 +140,25 @@
 
 ### **Social Networks**
 
-- Enron  [http://odds.cs.stonybrook.edu/#table2](http://odds.cs.stonybrook.edu/#table2)
-- UCI Message  [http://archive.ics.uci.edu/ml](http://archive.ics.uci.edu/ml)
-- Google+  [https://wangbinghui.net/dataset.html](https://wangbinghui.net/dataset.html)
-- Twittwe Sybil  [https://wangbinghui.net/dataset.html](https://wangbinghui.net/dataset.html)
-- Twitter World-Cup2014  [http://shebuti.com/SelectiveAnomalyEnsemble/](http://shebuti.com/SelectiveAnomalyEnsemble/)
-- Twitter Security2014  [http://shebuti.com/SelectiveAnomalyEnsemble/](http://shebuti.com/SelectiveAnomalyEnsemble/)
-- Reality Mining  [http://shebuti.com/SelectiveAnomalyEnsemble/](http://shebuti.com/SelectiveAnomalyEnsemble/)
-- NYTNews  [http://shebuti.com/SelectiveAnomalyEnsemble/](http://shebuti.com/SelectiveAnomalyEnsemble/)
-- Politifact  [https://github.com/safe-graph/GNN-FakeNews](https://github.com/safe-graph/GNN-FakeNews)
-- Gossipcop  [https://github.com/safe-graph/GNN-FakeNews](https://github.com/safe-graph/GNN-FakeNews)
+> - Enron  [http://odds.cs.stonybrook.edu/#table2](http://odds.cs.stonybrook.edu/#table2)
+> - UCI Message  [http://archive.ics.uci.edu/ml](http://archive.ics.uci.edu/ml)
+> - Google+  [https://wangbinghui.net/dataset.html](https://wangbinghui.net/dataset.html)
+> - Twittwe Sybil  [https://wangbinghui.net/dataset.html](https://wangbinghui.net/dataset.html)
+> - Twitter World-Cup2014  [http://shebuti.com/SelectiveAnomalyEnsemble/](http://shebuti.com/SelectiveAnomalyEnsemble/)
+> - Twitter Security2014  [http://shebuti.com/SelectiveAnomalyEnsemble/](http://shebuti.com/SelectiveAnomalyEnsemble/)
+> - Reality Mining  [http://shebuti.com/SelectiveAnomalyEnsemble/](http://shebuti.com/SelectiveAnomalyEnsemble/)
+> - NYTNews  [http://shebuti.com/SelectiveAnomalyEnsemble/](http://shebuti.com/SelectiveAnomalyEnsemble/)
+> - Politifact  [https://github.com/safe-graph/GNN-FakeNews](https://github.com/safe-graph/GNN-FakeNews)
+> - Gossipcop  [https://github.com/safe-graph/GNN-FakeNews](https://github.com/safe-graph/GNN-FakeNews)
 
 ### **Co-purchasing Networks**
 
-- Disney  [https://www.ipd.kit.edu/mitarbeiter/muellere/consub/](https://www.ipd.kit.edu/mitarbeiter/muellere/consub/)
-- Amazon-v1  [https://www.ipd.kit.edu/mitarbeiter/muellere/consub/](https://www.ipd.kit.edu/mitarbeiter/muellere/consub/)
-- Amazon-v2  [https://github.com/dmlc/dgl/blob/master/python/dgl/data/fraud.py](https://github.com/dmlc/dgl/blob/master/python/dgl/data/fraud.py)
-- Elliptic  [https://www.kaggle.com/ellipticco/elliptic-data-set](https://www.kaggle.com/ellipticco/elliptic-data-set)
-- Yelp  [https://github.com/dmlc/dgl/blob/master/python/dgl/data/fraud.py](https://github.com/dmlc/dgl/blob/master/python/dgl/data/fraud.py)
+> - Disney  [https://www.ipd.kit.edu/mitarbeiter/muellere/consub/](https://www.ipd.kit.edu/mitarbeiter/muellere/consub/)
+> - Amazon-v1  [https://www.ipd.kit.edu/mitarbeiter/muellere/consub/](https://www.ipd.kit.edu/mitarbeiter/muellere/consub/)
+> - Amazon-v2  [https://github.com/dmlc/dgl/blob/master/python/dgl/data/fraud.py](https://github.com/dmlc/dgl/blob/master/python/dgl/data/fraud.py)
+> - Elliptic  [https://www.kaggle.com/ellipticco/elliptic-data-set](https://www.kaggle.com/ellipticco/elliptic-data-set)
+> - Yelp  [https://github.com/dmlc/dgl/blob/master/python/dgl/data/fraud.py](https://github.com/dmlc/dgl/blob/master/python/dgl/data/fraud.py)
 
-### **Transportation Networks**
+### **Transportation Networks** 
 
-- New York City Taxi  [http://www.nyc.gov/html/tlc/html/about/triprecorddata.shtml](http://www.nyc.gov/html/tlc/html/about/triprecorddata.shtml)
-
+> - New York City Taxi  [http://www.nyc.gov/html/tlc/html/about/triprecorddata.shtml](http://www.nyc.gov/html/tlc/html/about/triprecorddata.shtml)

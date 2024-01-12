@@ -1,4 +1,4 @@
-- 图异常检测研究的时间线
+- [Graph-Anomaly-Detection](#Graph-Anomaly-Detection)
   -  [图异常检测研究的时间线](#图异常检测研究的时间线)
   - [Survey](#Survey)
   - [Anomalous Node Detections](#Anomalous Node Detection)

@@ -1,4 +1,3 @@
-[TOC]
 
 #  **Graph-Anomaly-Detection**
 
@@ -8,7 +7,7 @@
 
 ## **图异常检测研究的时间线**
 
-![image-20240110144919083](C:\Users\Le'novo\AppData\Roaming\Typora\typora-user-images\image-20240110144919083.png)([A Comprehensive Survey on Graph Anomaly Detection With Deep Learning | IEEE Journals & Magazine | IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/9565320))
+![image-20240110144919083](timeline.png](https://ieeexplore.ieee.org/abstract/document/9565320))
 
 
 

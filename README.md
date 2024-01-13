@@ -20,7 +20,7 @@
 
 ## **OpenGAD**
 
-- OpenGAD is a database that integrates graph anomaly detection algorithms and graph anomaly detection datasets. It encompasses the identification of anomalous nodes, edges, subgraphs, and graphs.
+- OpenGAD is a benchmark that integrates graph anomaly detection algorithms and graph anomaly detection datasets. It encompasses the identification of anomalous nodes, edges, subgraphs, and graphs.
 
 [![timeline](图标.png)](https://github.com/linlin-oss/Graph-Anomaly-Detection)
 

@@ -22,7 +22,7 @@
 
 - OpenGAD is a benchmark that integrates graph anomaly detection algorithms and graph anomaly detection datasets. It encompasses the identification of anomalous nodes, edges, subgraphs, and graphs.
 
-[![timeline](图标.png)](https://github.com/linlin-oss/Graph-Anomaly-Detection)
+[![timeline](图标.jpg)](https://github.com/linlin-oss/Graph-Anomaly-Detection)
 
 
 ## **图异常检测研究的时间线**

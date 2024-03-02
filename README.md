@@ -147,7 +147,7 @@
 > - Cora  [http://linqs.cs.umd.edu/projects/projects/lbc](http://linqs.cs.umd.edu/projects/projects/lbc)
 > - CiteSeer  [http://linqs.cs.umd.edu/projects/projects/lbc](http://linqs.cs.umd.edu/projects/projects/lbc)
 > - PubMed  [http://linqs.cs.umd.edu/projects/projects/lbc](http://linqs.cs.umd.edu/projects/projects/lbc)
-> - DBLP  [http://snap.stanford.edu/data/com-DBLP.html](http://www.informatik.uni-trier.de/˜ley/db/)
+> - DBLP  [https://www.dropbox.com/s/yh4grpeks87ugr2/DBLP_processed.zip?dl=1](https://www.dropbox.com/s/yh4grpeks87ugr2/DBLP_processed.zip?dl=1)
 
 ### **Social Networks**
 
